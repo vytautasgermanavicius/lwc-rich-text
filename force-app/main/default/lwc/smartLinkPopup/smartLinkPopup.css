@@ -1,0 +1,10 @@
+/**
+ * Created by Vytautas Germanavičius on 2024-05-21.
+ */
+
+.slds-modal_small .slds-modal__container,
+.slds-modal__container {
+    min-width: 320px !important;
+    max-width: 320px !important;
+    width: 320px !important;
+}
